@@ -17,4 +17,6 @@ luizgbes@gmail.com
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+### Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgbestel&layout=compact)](https://github.com/lgbestel/github-readme-stats)
