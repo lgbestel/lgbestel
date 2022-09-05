@@ -2,7 +2,7 @@
 
 My name is Luiz Guilherme Bestel and I am happy to see you here!
 
-I'm a Front-End developer with a Bachelor's Degree in Business, currently learning about Back-End development at Trybe.
+I'm a Front-End developer with a Bachelor's Degree in Business (Federal University of Paraná - UFPR), currently learning about Back-End development at Trybe.
 
 ### Technologies and Tools
 
