@@ -13,10 +13,10 @@ I'm a Front-End developer with a Bachelor's Degree in Business (Federal Universi
 
 luizgbes@gmail.com
 
-<a href="https://www.linkedin.com/in/luiz-guilherme-bestel-5bab057b/">
+<a href="https://www.linkedin.com/in/lgbestel">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+              
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgbestel&layout=compact)](https://github.com/lgbestel/github-readme-stats)
