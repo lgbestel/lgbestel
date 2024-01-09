@@ -2,7 +2,7 @@
 
 My name is Luiz Guilherme Bestel and I am happy to see you here!
 
-I'm a full stack web developer with a Bachelor's Degree in Business (Federal University of Paraná - UFPR), currently learning more about computer science at Trybe.
+I'm a full stack web developer with a Bachelor's Degree in Business (Federal University of Paraná - UFPR).
 
 ### Technologies I know
 
