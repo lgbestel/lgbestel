@@ -1,4 +1,4 @@
-### What is up, world!? 👋
+### What is up!? 👋
 
 My name is Luiz Guilherme Bestel and I am happy to see you here!
 
